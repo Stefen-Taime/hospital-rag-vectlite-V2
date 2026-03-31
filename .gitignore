@@ -12,3 +12,8 @@ data/vectordb/*.vdb-shm
 venv/
 .ruff_cache/
 .mypy_cache/
+article.md
+spec.md
+ticket.md
+tickets.md
+spec. md
