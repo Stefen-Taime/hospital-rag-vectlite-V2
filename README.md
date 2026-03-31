@@ -263,8 +263,8 @@ Create a `.env` file at the project root:
 
 ```bash
 # .env
-OPENAI_API_KEY=sk-your-openai-key-here
-GEMINI_API_KEY=your-gemini-key-here
+OPENAI_API_KEY=your_openai_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 Both the ETL pipeline and the chatbot API will read from this file automatically using `pydantic-settings`. No environment variable exports needed — just drop the file in and go.
