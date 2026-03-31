@@ -91,6 +91,10 @@ hospital_rag/
 +-- pyproject.toml
 ```
 
+Architecture diagram:
+
+![Hospital RAG architecture](img/architecture_diagram.png)
+
 ## VectLite: The SQLite Moment for Vector Databases
 
 ### The Problem With Today's Vector Databases
