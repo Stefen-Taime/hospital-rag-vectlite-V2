@@ -1,0 +1,12 @@
+[project]
+name = "hospital-rag"
+version = "1.0.0"
+description = "RAG conversationnel sur les avis hospitaliers de Montréal"
+requires-python = ">=3.11"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]

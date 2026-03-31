@@ -1,0 +1,22 @@
+# Core
+vectlite
+langchain>=0.3
+langchain-core>=0.3
+langchain-google-genai>=2.0
+openai>=1.0
+pydantic-settings>=2.0
+
+# ETL
+pandas
+
+# API
+fastapi
+uvicorn[standard]
+
+# Frontend
+streamlit
+plotly
+httpx
+
+# Dev
+python-dotenv

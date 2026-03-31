@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+data/vectordb/*.vdb
+data/vectordb/*.vdb.*
+data/vectordb/*.vdb-wal
+data/vectordb/*.vdb-shm
+
+.venv/
+venv/
+.ruff_cache/
+.mypy_cache/
