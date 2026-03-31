@@ -1774,7 +1774,7 @@ This project is a solid foundation. Here are ideas for extending it:
 
 The complete source code for this project is available on GitHub:
 
-**[https://github.com/Stefen-Taime/hospital-rag-vectlite-V1](https://github.com/Stefen-Taime/hospital-rag-vectlite-V1)**
+**[https://github.com/Stefen-Taime/hospital-rag-vectlite-V2](https://github.com/Stefen-Taime/hospital-rag-vectlite-V2)**
 
 Clone it, drop in your API keys, run the ETL pipeline, and you'll have a working chatbot in under 5 minutes.
 
